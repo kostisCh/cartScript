@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PriceList>
+	<Entry>
+		<Product>Cafe</Product>
+		<Price>18.50</Price>
+	</Entry>
+	
+	<Entry>
+		<Product>Sugar</Product>
+		<Price>6.95</Price>
+	</Entry>
+	
+	<Entry>
+		<Product>Water</Product>
+		<Price>1.29</Price>
+	</Entry>
+</PriceList>
